@@ -1,0 +1,50 @@
+Change Mithril & Adamant crafting: recipe gives Mithril powder, infused with a Magical infuser to create ingots.
+
+
+Magical Infuser: lowest tier of magic-to-matter-binder, uses magic to infuse magical powder to create usable matter. Interface similar to brewing stand.
+
+
+Infused Wizard Armor:	- Padded: increases armor value slightly.
+			- Enhanced: increases spell damage slightly.
+			- Moderator Arcanis: This upgrade is required to be able to hold and controll the most powerful of essences.
+
+
+Archmage's Satchel: similar to normal Satchel, Holds only those things radiating the strongest magic.
+
+
+/*In case Spellscrolls get consumed on use:
+	Arcane Library: (possibly multiblock) holds a massive amount of Spellscrolls, catagorized.
+*/
+
+
+Unattuned essence: High energy, unformed orb of pure magic. Must be stabalized using the Archmage's Formator Materiae.
+
+
+Formator Materiae: a very ancient machine build by the Archmage of the Early Era, it is an incredibly powerful block, it's power almost reaches to that God's. Almost. It can do much, but it has a change (varies on operation) of corruption. (example of corruption: evil essence)
+
+
+Pure essence: The highest aquireable form of essence. Can not safely be held or modified without the Moderator Arcanis upgrade. Can be used to create almost any other essence/item, has other uses.
+
+
+Evil essence: The most dangerous, unstable form of essence, created by the Formator Materiae, having failed creating Pure essence out of Unattuned essence. Can not safely be held or modified without the Moderator Arcanis upgrade. Has a few uses.
+
+
+Scholar's Infuser: Mid tier magic-to-matter-binder, binds faster, wastes less 'fuel', possibly processes more at a time.
+
+
+Altar Magis: Highest tier of magic-to-matter-binder, binds Pure and Evil essences to the powder/items/blocks to be infused. Emits bright light.
+
+
+Amulet of The sky: controlls time of day, rain and lightning. takes damage on use.
+
+
+/* got a bit tired to create correct latin names anymore, it's 9 PM and I've done enough school type stuff today ;)
+   Some of the following things will get fancy names though
+*/
+
+Stairs of ascension: Holy Mothaf*&#^$&*6 BLARG expensive stairs, form a multiblock to the realm of gods, you've now officially bested the Archmage "Zeno of Citium" of the Early Era. You get all sorts of awesome stuff. To get there thoug, you must pass a trial and be willing to sacrifice a good amount of completely full extradimentional barrels.
+
+
+/* I have got way more ideas, but this should give a glimpse of what it'd look like.
+   I mainly want your opinion on this because, it is all expensive and balanced-like and stuff, but at the end, you will be godlike...
+*/
